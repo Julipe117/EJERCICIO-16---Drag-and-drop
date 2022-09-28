@@ -1,0 +1,32 @@
+.seccion{
+    background-color: darkgray;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color: white;
+    padding: 1rem;
+}
+
+.parrafo.dragging {
+    opacity: 0.3;
+}
+
+.img-fantasma{
+    width: 500px;
+    height: 50px;
+    background-color: dodgerblue;
+    position: absolute;
+    left: -100vw;
+}
+
+.papelera{
+    text-align: center;
+}
+
+#papelera{
+    width: 200px;
+    height: 200px;
+}
+
